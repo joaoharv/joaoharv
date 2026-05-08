@@ -78,8 +78,6 @@ Right now I'm deepening my work across three areas:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jhArantes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhArantes&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"/>
 
 <br/>
 
