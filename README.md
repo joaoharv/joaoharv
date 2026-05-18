@@ -74,21 +74,6 @@ Right now I'm deepening my work across three areas:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhArantes&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
 ## Connect with Me
 
 <div align="center">
