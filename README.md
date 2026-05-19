@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/joaoharv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3800&pause=600&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;Criando+sistemas+que+resolvem+dores+reais;APIs%2C+pipelines+de+dados+e+agentes+inteligentes;LangGraph+%7C+LangChain+%7C+RAG+%7C+OpenAI+SDK;FastAPI+%7C+Docker+%7C+PostgreSQL+em+produ%C3%A7%C3%A3o;J%C3%BAnior+tamb%C3%A9m+quebra+o+front+e+culpa+o+cache;J%C3%BAnior+tamb%C3%A9m+%C3%A9+gente." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3800&pause=600&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;FastAPI+%7C+Docker+%7C+PostgreSQL+em+produ%C3%A7%C3%A3o;J%C3%BAnior+tamb%C3%A9m+quebra+o+front+e+culpa+o+cache;J%C3%BAnior+tamb%C3%A9m+%C3%A9+gente." alt="Typing SVG" />
 </a>
 
 <br/><br/>
