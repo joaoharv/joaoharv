@@ -4,12 +4,11 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3800&pause=1200&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;APIs%2C+pipelines+de+dados+e+agentes+inteligentes;LangGraph+%7C+LangChain+%7C+RAG+%7C+OpenAI+SDK;Junior+também+é+gente" alt="Typing SVG" />
+<a href="https://github.com/joaoharv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3800&pause=1200&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;APIs%2C+pipelines+de+dados+e+agentes+inteligentes;LangGraph+%7C+LangChain+%7C+RAG+%7C+OpenAI+SDK;FastAPI+%7C+Docker+%7C+PostgreSQL+em+produ%C3%A7%C3%A3o;J%C3%BAnior+tamb%C3%A9m+quebra+o+front+e+culpa+o+cache;git+push+--force+e+torcer+para+o+melhor;J%C3%BAnior+tamb%C3%A9m+%C3%A9+gente" alt="Typing SVG" />
 </a>
 
 <br/><br/>
-
 <a href="https://linkedin.com/in/joaoharv">
   <img src="https://img.shields.io/badge/LinkedIn-joaoharv-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
