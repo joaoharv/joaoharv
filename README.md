@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3800&pause=1200&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;APIs%2C+pipelines+de+dados+e+agentes+inteligentes;LangGraph+%7C+LangChain+%7C+RAG+%7C+OpenAI+SDK;Do+processamento+de+dados+a+APIs+prontas+para+producao" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3800&pause=1200&color=00C781&center=true&vCenter=true&width=600&lines=Construindo+sistemas+de+IA+com+backend+real;APIs%2C+pipelines+de+dados+e+agentes+inteligentes;LangGraph+%7C+LangChain+%7C+RAG+%7C+OpenAI+SDK;Junior também é gente" alt="Typing SVG" />
 </a>
 
 <br/><br/>
